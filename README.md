@@ -1,7 +1,7 @@
 # nsu-computer-vision
 
 <details>
-  <summary>First lecture plan</summary>
+  <summary>Introduction to CV</summary>
   
 1. What is computer vision?
 2. What types of issues are solved with computer vision?
@@ -60,7 +60,7 @@
 
 
 <details>
-  <summary>Second lecture plan</summary>
+  <summary>CV Basics 1.0</summary>
  
 1. Mathematical issue statement
 2. Examples of bad photos
