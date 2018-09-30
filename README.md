@@ -3,7 +3,7 @@
 <details>
   <summary>First lecture plan</summary>
   
-  1. What is computer vision?
+1. What is computer vision?
 2. What types of issues are solved with computer vision?
 * Digit recognition
 * Object recognition
@@ -38,7 +38,7 @@
 * Aberrations
 5. What helps us to determine object?
 * Edges 
-* A prioru knowledge
+* A priori knowledge
 6. Physical basics
 * Light == wave + visible spectrum
 7. Human eye
@@ -56,5 +56,46 @@
 * Trichromatic theory
 * Grassmans law
 * LMS, RGB, HSV, CMYK
-
 </details>
+
+
+<details>
+  <summary>Second lecture plan</summary>
+ 
+1. Mathematical issue statement
+2. Examples of bad photos
+* Noisy
+* Bad color
+* Bad ligthing
+2. Tone correction
+* Linear histogram transformation
+* Stable linear histogram transformation
+* Gamma correction 
+3. Color correction
+* White template 
+* Many colors template
+* Grayworld
+* White balance recognition
+3. Noise reduction
+* Example of noise
+* Noise types (random + salt n pepper)
+* Noise reduction metrics
+* Averaging several images
+* Averaging images regions
+4. Convolution
+* Definition (integral + discrete)
+* Examples
+* Mathematical properties
+* How to deal with edges
+* Not gaussian filter problem
+* Gaussian filter 1/2D
+* Gaussian filter as low frequency filter
+* Median filter
+5. Edge detection
+* Gradient
+* Derivative 
+* Derivative convolution
+* Algorithms for edge detection
+* Canny detector algorithm
+</details>
+
