@@ -102,7 +102,7 @@
 <details>
   <summary>CV Basics 2.0</summary>
  
- 1. Images matching
+1. Images matching
 * What it is?
 * Find Yann game
 2. Local features
@@ -114,16 +114,17 @@
 * Algorithm
 * Formula, Taylors series, derivatives matrix, eigenvalues of derivatives matrix
 * Properties of Harris detector
-8. Scale accounting - Laplassian for spot detection
+4. Scale accounting - Laplassian for spot detection
 * First, second order derivatives
 * Attenuation problem
 * How to find spots of different sizes with Laplassian
 * Difference of Gaussians
-10 Local fearures descriptors
+5. Local fearures descriptors
 * What to choose?
 * Properties
 * Mathcing algorithm
 * SIFT
+
 
 </details>
 
