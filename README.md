@@ -129,6 +129,8 @@
 
 </details>
 
+To be ccontinued ...
+
 ## Additional materials:
 ### Courses:
 1. [Courser Machine Learning](http://coursera.org/learn/machine-learning/)
