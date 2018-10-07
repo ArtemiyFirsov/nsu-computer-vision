@@ -72,6 +72,7 @@
 * Linear histogram transformation
 * Stable linear histogram transformation
 * Gamma correction 
+* Hist eq
 3. Color correction
 * White template 
 * Many colors template
@@ -80,7 +81,7 @@
 3. Noise reduction
 * Example of noise
 * Noise types (random + salt n pepper)
-* Noise reduction metrics
+* Noise reduction metrics (MSE, PSNR, SSIM)
 * Averaging several images
 * Averaging images regions
 4. Convolution
