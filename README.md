@@ -1,5 +1,10 @@
 # nsu-computer-vision
 
+| Student  | 1 |2|3|4|5|6|7|8|9|10|11|12|13|
+| --- | --- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Lectures plan
 <details>
   <summary>Introduction to CV</summary>
