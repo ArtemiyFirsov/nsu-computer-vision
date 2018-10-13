@@ -1,9 +1,20 @@
 # nsu-computer-vision
 
-| Student  | 1 |2|3|4|5|6|7|8|9|10|11|12|13|
+| Student  | 1 |
 | --- | --- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Anastasia Malysheva | +  |
+| Klim Markelov | + |
+| Seth Gyamerah | + |
+| Juan Pinzon | + |
+| Andrey Zubkov | + |
+| Leyuan Sheng | - |
+| Akilesh Sivasvamy | + |
+| Daniil Fishman | - |
+| Petr Gusev | + |
+| Evgeniy Kurochkin | - |
+| Artyom Sergeev | - |
+| Vitaly Poteshkin | + |
+| Alexandra Luchkina | - |
 
 ## Lectures plan
 <details>
