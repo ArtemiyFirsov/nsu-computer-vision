@@ -1,20 +1,6 @@
 # nsu-computer-vision
 
-| Student  | 1 |
-| --- | --- |
-| Anastasia Malysheva | +  |
-| Klim Markelov | + |
-| Seth Gyamerah | + |
-| Juan Pinzon | + |
-| Andrey Zubkov | + |
-| Leyuan Sheng | - |
-| Akilesh Sivasvamy | + |
-| Daniil Fishman | - |
-| Petr Gusev | + |
-| Evgeniy Kurochkin | - |
-| Artyom Sergeev | - |
-| Vitaly Poteshkin | + |
-| Alexandra Luchkina | - |
+## [Progress](https://docs.google.com/spreadsheets/d/1fe0GOq8ySP3Gu1T1UhyPUNxVhF8ymiEvxQxQyRnQu1U/edit?usp=sharing)
 
 ## Lectures plan
 <details>
