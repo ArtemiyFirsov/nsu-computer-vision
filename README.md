@@ -104,7 +104,7 @@
 </details>
 
 <details>
-  <summary>CV Basics 2.0</summary>
+  <summary>Introduction to convolutional Neural Networks</summary>
  
 1. Images matching
 * What it is?
@@ -128,6 +128,34 @@
 * Properties
 * Mathcing algorithm
 * SIFT
+
+
+</details>
+
+<details>
+  <summary>CV Basics 1.0</summary>
+ 
+1. Convolutional Neural Network (CNN) definition
+* Convolutional layer
+* MaxPooling
+* Average Pooling 
+* Stide and Padding
+2. Dataset
+* Tiny Images, CIFAR-N, ImageNet
+* How to gather your dataset
+3. Training problems
+* Dead neurons
+* Saturation
+* Overfitting
+4. Data from CNN
+* Features
+* Filter visualization
+* Activation visualization
+* Maximal neuron activation
+* Visualization of important data
+* tSNE
+* Reconstruction of the image
+5. CNN frameworks
 
 
 </details>
