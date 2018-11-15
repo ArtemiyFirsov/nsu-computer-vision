@@ -104,7 +104,7 @@
 </details>
 
 <details>
-  <summary>Introduction to convolutional Neural Networks</summary>
+  <summary>CV Basics 2.0</summary>
  
 1. Images matching
 * What it is?
@@ -133,7 +133,7 @@
 </details>
 
 <details>
-  <summary>CV Basics 1.0</summary>
+  <summary>Intrduction to CNNs</summary>
  
 1. Convolutional Neural Network (CNN) definition
 * Convolutional layer
