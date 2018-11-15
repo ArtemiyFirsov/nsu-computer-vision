@@ -133,7 +133,7 @@
 </details>
 
 <details>
-  <summary>Intrduction to CNNs</summary>
+  <summary>Introduction to CNNs</summary>
  
 1. Convolutional Neural Network (CNN) definition
 * Convolutional layer
