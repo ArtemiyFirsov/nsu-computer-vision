@@ -160,7 +160,54 @@
 
 </details>
 
-To be ccontinued ...
+<details>
+  <summary>CNNs architectures</summary>
+ 
+1. Alexnet
+2. ZF Net
+3. VGG Net
+4. GoogleNet
+5. RESNET
+6. Semantic Segmentation
+7. DetectNet
+* Fully connected conditional random fields
+* R-CNN
+* Segnet
+* Upsampling layer
+7. Style transfer
+8. GANs
+9. Capsule Networks
+10. CNNs tips
+
+</details>
+
+## Seminars plan
+
+<details>
+  <summary>openCV seminar</summary>
+ 
+1. Generate noise (random, salt n pepper) + visualize it
+2. Add differnet types of noise to your image and blur it
+3. Get high frequencies image from the image using using gaussian blur
+4. Implement gamma correction technique and apply it to the image
+5. Apply gradient filter [-1,1] and compare its work with advanced filters for edges detection
+6. Implement Grayworld balancing technique and apply it to the image (*)
+7.  Implement pipeline for matching objects in different images (*)
+
+</details>
+
+<details>
+  <summary>CNN seminar</summary>
+ 
+1. Visualize weights from the CNN input layer
+2. Feed an image to the model and get an output image from some layer
+3. Classify cats and dogs images with features from CNN using SVM/KNN/etc...
+4. Create your own simple architecture and train CNN on MNIST dataset. Test it on some hard images from the web, such as (\*)
+5. Augment MNIST data using ImageDataGenerator and color inversion + visualize (or save) augmented images. Train your model on augmented data and compare the results on your images from the web (\*)
+6. Use pretrained model to train on CIFAR-10 dataset (\*)
+7. Implement style transfer technique (\*\*)
+
+</details>
 
 ## Additional materials:
 ### Courses:
