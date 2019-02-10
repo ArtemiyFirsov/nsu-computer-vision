@@ -45,7 +45,7 @@
 6. Physical basics
 * Light == wave + visible spectrum
 7. Human eye
-* Why our eye sucks
+* Why our eye is bad
 * Why octopus eye is better than ours
 * Why our ear is better than eye
 8. Optical systems
