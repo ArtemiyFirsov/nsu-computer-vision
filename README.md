@@ -1,6 +1,6 @@
 # nsu-computer-vision
 
-## [Progress](https://docs.google.com/spreadsheets/d/1fe0GOq8ySP3Gu1T1UhyPUNxVhF8ymiEvxQxQyRnQu1U/edit?usp=sharing)
+## [Progress 2018-2019](https://docs.google.com/spreadsheets/d/1fe0GOq8ySP3Gu1T1UhyPUNxVhF8ymiEvxQxQyRnQu1U/edit?usp=sharing)
 
 ## Lectures plan
 <details>
