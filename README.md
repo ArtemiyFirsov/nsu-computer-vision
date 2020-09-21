@@ -186,13 +186,7 @@
 <details>
   <summary>openCV seminar</summary>
  
-1. Generate noise (random, salt n pepper) + visualize it
-2. Add differnet types of noise to your image and blur it
-3. Get high frequencies image from the image using using gaussian blur
-4. Implement gamma correction technique and apply it to the image
-5. Apply gradient filter [-1,1] and compare its work with advanced filters for edges detection
-6. Implement Grayworld balancing technique and apply it to the image (*)
-7.  Implement pipeline for matching objects in different images (*)
+https://colab.research.google.com/drive/1M4FLYZnx-n5g03hcyGllxNuesEXOKL9D?usp=sharing
 
 </details>
 
