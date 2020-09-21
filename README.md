@@ -193,13 +193,7 @@ https://colab.research.google.com/drive/1M4FLYZnx-n5g03hcyGllxNuesEXOKL9D?usp=sh
 <details>
   <summary>CNN seminar</summary>
  
-1. Visualize weights from the CNN input layer
-2. Feed an image to the model and get an output image from some layer
-3. Classify cats and dogs images with features from CNN using SVM/KNN/etc...
-4. Create your own simple architecture and train CNN on MNIST dataset. Test it on some hard images from the web, such as (\*)
-5. Augment MNIST data using ImageDataGenerator and color inversion + visualize (or save) augmented images. Train your model on augmented data and compare the results on your images from the web (\*)
-6. Use pretrained model to train on CIFAR-10 dataset (\*)
-7. Implement style transfer technique (\*\*)
+Coming soon
 
 </details>
 
