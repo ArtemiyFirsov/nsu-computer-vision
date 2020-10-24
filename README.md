@@ -193,7 +193,7 @@ https://colab.research.google.com/drive/1M4FLYZnx-n5g03hcyGllxNuesEXOKL9D?usp=sh
 <details>
   <summary>CNN seminar</summary>
  
-Coming soon
+https://colab.research.google.com/drive/1Wb-BHpLmzVR40DbMa6UD2rw-4KE_D4s6?usp=sharing
 
 </details>
 
