@@ -3,6 +3,7 @@
 ## [Progress](https://docs.google.com/spreadsheets/d/1fe0GOq8ySP3Gu1T1UhyPUNxVhF8ymiEvxQxQyRnQu1U/edit?usp=sharing)
 
 ## Lectures plan
+Lectures - https://www.icloud.com/iclouddrive/0dkjvyh0j0izt1WjLwSdIo5tQ#Lectures_Current
 <details>
   <summary>Introduction to CV</summary>
   
